@@ -1,0 +1,9 @@
+*.DS_Store
+/build
+/debug
+hello.S
+hello.koopa
+hello.o
+tmp.koopa
+hello
+.vscode
